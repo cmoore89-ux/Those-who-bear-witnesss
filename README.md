@@ -45,7 +45,7 @@ An iPhone cannot easily run this local Python app by itself. To use it on iPhone
 Copy `.env.example` to `.env` and add your OpenAI API key:
 
 ```bash
-OPENAI_API_KEY=your_key_here
+OPENAI_API_KEY=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
 OPENAI_MODEL=gpt-4.1-mini
 ```
 
